@@ -1,0 +1,14 @@
+All pads here are non-pitched 
+
+pads have 5 versions each, varying in duration, filtering, and behaviour
+Every 4/4 bar in 120 bpm = 2 seconds. 4 bars 8 seconds, so this will be the basis
+0 = 8 seconds
+1 = 8 seconds darkened
+2 = 16 seconds
+3 = 16 seconds darkened
+4 = 24 seconds swelling in volume
+
+5-9 would be a different sound
+10-14, 15-19 etc.
+
+All files have been created/composed by Eldad Tsabary
