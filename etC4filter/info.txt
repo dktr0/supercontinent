@@ -1,3 +1,4 @@
 Pitched C4 sounds (short)
 Synthesized by Eldad Tsabary
-Filtered in groups of (up to) 20 versions, ascending #n towards lower cutoff frequency of LPF
+Filtered in groups of 16 versions, ascending #n towards lower cutoff frequency of LPF
+
