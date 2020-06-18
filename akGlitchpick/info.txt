@@ -1,0 +1,8 @@
+Created by Abhinay Khoparzi
+Instruments: Zuper Zmall Zound Zynth
+Date: 18 June, 2020
+
+https://zzfx.3d2k.com/
+
+Starting from the base code of
+zzfx(...[,,585,,.02,.16,4,.25,,,,,,,,,,.55,.03]);
